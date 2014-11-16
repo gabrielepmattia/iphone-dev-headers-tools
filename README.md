@@ -26,8 +26,9 @@ and my script will replace
   
 with
 
-  <code>#import <CorrectFolder/Something.h></code>
+  <code>"#import &lt;CorrectFolder/Something.h></code>
   
 searching *Something.h* in every subfolder
 
-*Other tools soon..*
+
+2. *Other tools soon..*
