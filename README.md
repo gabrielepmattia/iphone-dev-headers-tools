@@ -26,7 +26,7 @@ Tools included
   
   with
 
-  <code>"#import &lt;CorrectFolder/Something.h></code>
+  <code>#import &lt;CorrectFolder/Something.h></code>
   
   searching *Something.h* in every subfolder
 
