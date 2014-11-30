@@ -12,7 +12,7 @@ def main() :
     print("PATH:", path)
     print("ROOT:", root)
 
-    return None
+    #return None
     count = 0
     
     print("Genero l'elenco dei file con directory...")
